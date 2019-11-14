@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>1140-wba-15196-000-c008-1573543346-shelf1.jpg</filename>
+	<path>/Users/kratik/Pictures/foofofofofo/test/1140-wba-15196-000-c008-1573543346-shelf1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1054</width>
+		<height>605</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bottle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>127</xmin>
+			<ymin>304</ymin>
+			<xmax>264</xmax>
+			<ymax>557</ymax>
+		</bndbox>
+	</object>
+</annotation>
