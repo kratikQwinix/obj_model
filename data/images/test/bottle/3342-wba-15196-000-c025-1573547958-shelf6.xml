@@ -1,13 +1,13 @@
 <annotation>
 	<folder>test</folder>
 	<filename>3342-wba-15196-000-c025-1573547958-shelf6.jpg</filename>
-	<path>/Users/kratik/Pictures/foofofofofo/test/3342-wba-15196-000-c025-1573547958-shelf6.jpg</path>
+	<path>/Users/kratik/Pictures/OBJECT/HAWK/TAGGED/sowmya/test/3342-wba-15196-000-c025-1573547958-shelf6.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>944</width>
-		<height>376</height>
+		<width>900</width>
+		<height>400</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
@@ -17,10 +17,46 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>15</xmin>
-			<ymin>16</ymin>
-			<xmax>383</xmax>
-			<ymax>320</ymax>
+			<xmin>13</xmin>
+			<ymin>17</ymin>
+			<xmax>353</xmax>
+			<ymax>335</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>bottle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>353</xmin>
+			<ymin>27</ymin>
+			<xmax>509</xmax>
+			<ymax>299</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>bottle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>493</xmin>
+			<ymin>2</ymin>
+			<xmax>712</xmax>
+			<ymax>289</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>bottle</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>708</xmin>
+			<ymin>1</ymin>
+			<xmax>888</xmax>
+			<ymax>283</ymax>
 		</bndbox>
 	</object>
 </annotation>
