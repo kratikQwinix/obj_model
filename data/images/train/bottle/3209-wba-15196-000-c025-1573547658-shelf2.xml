@@ -1,0 +1,26 @@
+<annotation>
+	<folder>wba-15196-000-c025</folder>
+	<filename>3209-wba-15196-000-c025-1573547658-shelf2.jpg</filename>
+	<path>/home/qwinix/Documents/15196/wba-15196-000-c025/3209-wba-15196-000-c025-1573547658-shelf2.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>900</width>
+		<height>400</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bottle</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>62</xmin>
+			<ymin>1</ymin>
+			<xmax>415</xmax>
+			<ymax>357</ymax>
+		</bndbox>
+	</object>
+</annotation>

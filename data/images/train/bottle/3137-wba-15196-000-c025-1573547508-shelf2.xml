@@ -1,7 +1,7 @@
 <annotation>
-	<folder>1</folder>
+	<folder>wba-15196-000-c025</folder>
 	<filename>3137-wba-15196-000-c025-1573547508-shelf2.jpg</filename>
-	<path>/home/qwinix/Documents/Resized-15196-25-26-27/Resized-25/1/3137-wba-15196-000-c025-1573547508-shelf2.jpg</path>
+	<path>/home/qwinix/Documents/15196/wba-15196-000-c025/3137-wba-15196-000-c025-1573547508-shelf2.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>22</xmin>
-			<ymin>11</ymin>
-			<xmax>173</xmax>
-			<ymax>373</ymax>
+			<xmin>28</xmin>
+			<ymin>8</ymin>
+			<xmax>179</xmax>
+			<ymax>374</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -29,10 +29,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>175</xmin>
-			<ymin>18</ymin>
-			<xmax>318</xmax>
-			<ymax>372</ymax>
+			<xmin>171</xmin>
+			<ymin>12</ymin>
+			<xmax>320</xmax>
+			<ymax>371</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -42,9 +42,9 @@
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>319</xmin>
-			<ymin>20</ymin>
-			<xmax>464</xmax>
-			<ymax>367</ymax>
+			<ymin>19</ymin>
+			<xmax>460</xmax>
+			<ymax>365</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -54,9 +54,9 @@
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>471</xmin>
-			<ymin>112</ymin>
-			<xmax>564</xmax>
-			<ymax>283</ymax>
+			<ymin>111</ymin>
+			<xmax>571</xmax>
+			<ymax>271</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -65,10 +65,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>604</xmin>
-			<ymin>130</ymin>
-			<xmax>733</xmax>
-			<ymax>335</ymax>
+			<xmin>599</xmin>
+			<ymin>140</ymin>
+			<xmax>732</xmax>
+			<ymax>324</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -77,10 +77,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>734</xmin>
-			<ymin>125</ymin>
+			<xmin>732</xmin>
+			<ymin>132</ymin>
 			<xmax>849</xmax>
-			<ymax>312</ymax>
+			<ymax>317</ymax>
 		</bndbox>
 	</object>
 </annotation>

@@ -1,7 +1,7 @@
 <annotation>
-	<folder>sowmya_resized</folder>
+	<folder>wba-15196-000-c025</folder>
 	<filename>2971-wba-15196-000-c025-1573547196-shelf5.jpg</filename>
-	<path>C:\Users\Qwinix\Desktop\sowmya_resized\2971-wba-15196-000-c025-1573547196-shelf5.jpg</path>
+	<path>/home/qwinix/Documents/15196/wba-15196-000-c025/2971-wba-15196-000-c025-1573547196-shelf5.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -14,13 +14,25 @@
 	<object>
 		<name>bottle</name>
 		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>102</ymin>
+			<xmax>162</xmax>
+			<ymax>366</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>bottle</name>
+		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>173</xmin>
-			<ymin>124</ymin>
-			<xmax>331</xmax>
-			<ymax>371</ymax>
+			<xmin>163</xmin>
+			<ymin>114</ymin>
+			<xmax>330</xmax>
+			<ymax>357</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -30,8 +42,8 @@
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>334</xmin>
-			<ymin>56</ymin>
-			<xmax>534</xmax>
+			<ymin>62</ymin>
+			<xmax>532</xmax>
 			<ymax>370</ymax>
 		</bndbox>
 	</object>
@@ -41,22 +53,22 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>536</xmin>
-			<ymin>75</ymin>
-			<xmax>726</xmax>
+			<xmin>533</xmin>
+			<ymin>78</ymin>
+			<xmax>721</xmax>
 			<ymax>368</ymax>
 		</bndbox>
 	</object>
 	<object>
 		<name>bottle</name>
 		<pose>Unspecified</pose>
-		<truncated>0</truncated>
+		<truncated>1</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>730</xmin>
-			<ymin>60</ymin>
-			<xmax>894</xmax>
-			<ymax>369</ymax>
+			<xmin>721</xmin>
+			<ymin>74</ymin>
+			<xmax>900</xmax>
+			<ymax>371</ymax>
 		</bndbox>
 	</object>
 </annotation>

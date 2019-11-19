@@ -1,7 +1,7 @@
 <annotation>
-	<folder>sowmya_resized</folder>
+	<folder>wba-15196-000-c025</folder>
 	<filename>2964-wba-15196-000-c025-1573547167-shelf6.jpg</filename>
-	<path>C:\Users\Qwinix\Desktop\sowmya_resized\2964-wba-15196-000-c025-1573547167-shelf6.jpg</path>
+	<path>/home/qwinix/Documents/15196/wba-15196-000-c025/2964-wba-15196-000-c025-1573547167-shelf6.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>50</xmin>
-			<ymin>45</ymin>
-			<xmax>232</xmax>
-			<ymax>289</ymax>
+			<xmin>8</xmin>
+			<ymin>57</ymin>
+			<xmax>297</xmax>
+			<ymax>294</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -29,10 +29,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>417</xmin>
-			<ymin>15</ymin>
-			<xmax>634</xmax>
-			<ymax>323</ymax>
+			<xmin>425</xmin>
+			<ymin>16</ymin>
+			<xmax>636</xmax>
+			<ymax>324</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -41,10 +41,10 @@
 		<truncated>1</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>679</xmin>
-			<ymin>6</ymin>
+			<xmin>680</xmin>
+			<ymin>13</ymin>
 			<xmax>900</xmax>
-			<ymax>344</ymax>
+			<ymax>352</ymax>
 		</bndbox>
 	</object>
 </annotation>

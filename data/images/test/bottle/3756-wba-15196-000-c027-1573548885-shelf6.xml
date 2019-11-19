@@ -1,0 +1,38 @@
+<annotation>
+	<folder>wba-15196-000-c027</folder>
+	<filename>3756-wba-15196-000-c027-1573548885-shelf6.jpg</filename>
+	<path>/home/qwinix/Desktop/Coolers Screen/15196/wba-15196-000-c027/3756-wba-15196-000-c027-1573548885-shelf6.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>900</width>
+		<height>400</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bottle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>54</xmin>
+			<ymin>11</ymin>
+			<xmax>232</xmax>
+			<ymax>278</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>bottle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>235</xmin>
+			<ymin>8</ymin>
+			<xmax>409</xmax>
+			<ymax>265</ymax>
+		</bndbox>
+	</object>
+</annotation>

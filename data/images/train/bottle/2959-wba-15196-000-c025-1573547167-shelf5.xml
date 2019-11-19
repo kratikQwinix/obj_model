@@ -1,7 +1,7 @@
 <annotation>
-	<folder>sowmya_resized</folder>
+	<folder>wba-15196-000-c025</folder>
 	<filename>2959-wba-15196-000-c025-1573547167-shelf5.jpg</filename>
-	<path>C:\Users\Qwinix\Desktop\sowmya_resized\2959-wba-15196-000-c025-1573547167-shelf5.jpg</path>
+	<path>/home/qwinix/Documents/15196/wba-15196-000-c025/2959-wba-15196-000-c025-1573547167-shelf5.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,10 +17,34 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>60</xmin>
+			<xmin>57</xmin>
+			<ymin>192</ymin>
+			<xmax>179</xmax>
+			<ymax>394</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>bottle</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>152</ymin>
+			<xmax>59</xmax>
+			<ymax>392</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>bottle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>174</xmin>
 			<ymin>181</ymin>
-			<xmax>169</xmax>
-			<ymax>382</ymax>
+			<xmax>282</xmax>
+			<ymax>376</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -29,10 +53,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>185</xmin>
-			<ymin>177</ymin>
-			<xmax>287</xmax>
-			<ymax>370</ymax>
+			<xmin>291</xmin>
+			<ymin>107</ymin>
+			<xmax>460</xmax>
+			<ymax>360</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -41,34 +65,22 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>292</xmin>
-			<ymin>106</ymin>
-			<xmax>461</xmax>
-			<ymax>358</ymax>
+			<xmin>462</xmin>
+			<ymin>60</ymin>
+			<xmax>675</xmax>
+			<ymax>347</ymax>
 		</bndbox>
 	</object>
 	<object>
 		<name>bottle</name>
 		<pose>Unspecified</pose>
-		<truncated>0</truncated>
+		<truncated>1</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>461</xmin>
-			<ymin>71</ymin>
-			<xmax>667</xmax>
-			<ymax>350</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>bottle</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>665</xmin>
-			<ymin>22</ymin>
-			<xmax>884</xmax>
-			<ymax>338</ymax>
+			<xmin>671</xmin>
+			<ymin>13</ymin>
+			<xmax>900</xmax>
+			<ymax>340</ymax>
 		</bndbox>
 	</object>
 </annotation>

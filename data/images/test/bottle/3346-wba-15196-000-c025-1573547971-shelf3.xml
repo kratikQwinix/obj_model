@@ -1,7 +1,7 @@
 <annotation>
-	<folder>sowmya_resized</folder>
+	<folder>wba-15196-000-c025</folder>
 	<filename>3346-wba-15196-000-c025-1573547971-shelf3.jpg</filename>
-	<path>C:\Users\Qwinix\Desktop\sowmya_resized\3346-wba-15196-000-c025-1573547971-shelf3.jpg</path>
+	<path>/home/qwinix/Documents/15196/wba-15196-000-c025/3346-wba-15196-000-c025-1573547971-shelf3.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -14,13 +14,13 @@
 	<object>
 		<name>bottle</name>
 		<pose>Unspecified</pose>
-		<truncated>1</truncated>
+		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1</xmin>
-			<ymin>34</ymin>
-			<xmax>141</xmax>
-			<ymax>355</ymax>
+			<xmin>4</xmin>
+			<ymin>36</ymin>
+			<xmax>140</xmax>
+			<ymax>356</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -29,10 +29,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>149</xmin>
-			<ymin>114</ymin>
+			<xmin>147</xmin>
+			<ymin>135</ymin>
 			<xmax>340</xmax>
-			<ymax>363</ymax>
+			<ymax>368</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -41,10 +41,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>338</xmin>
-			<ymin>67</ymin>
-			<xmax>482</xmax>
-			<ymax>363</ymax>
+			<xmin>337</xmin>
+			<ymin>73</ymin>
+			<xmax>476</xmax>
+			<ymax>359</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -53,22 +53,34 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>480</xmin>
-			<ymin>37</ymin>
-			<xmax>627</xmax>
+			<xmin>473</xmin>
+			<ymin>45</ymin>
+			<xmax>622</xmax>
+			<ymax>361</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>bottle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>622</xmin>
+			<ymin>109</ymin>
+			<xmax>765</xmax>
+			<ymax>367</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>bottle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>768</xmin>
+			<ymin>151</ymin>
+			<xmax>892</xmax>
 			<ymax>366</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>bottle</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>626</xmin>
-			<ymin>98</ymin>
-			<xmax>775</xmax>
-			<ymax>371</ymax>
 		</bndbox>
 	</object>
 </annotation>

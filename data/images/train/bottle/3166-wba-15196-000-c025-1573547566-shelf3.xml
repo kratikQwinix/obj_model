@@ -1,7 +1,7 @@
 <annotation>
-	<folder>1</folder>
+	<folder>wba-15196-000-c025</folder>
 	<filename>3166-wba-15196-000-c025-1573547566-shelf3.jpg</filename>
-	<path>/home/qwinix/Documents/Resized-15196-25-26-27/Resized-25/1/3166-wba-15196-000-c025-1573547566-shelf3.jpg</path>
+	<path>/home/qwinix/Documents/15196/wba-15196-000-c025/3166-wba-15196-000-c025-1573547566-shelf3.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>31</xmin>
-			<ymin>106</ymin>
-			<xmax>117</xmax>
-			<ymax>355</ymax>
+			<xmin>15</xmin>
+			<ymin>104</ymin>
+			<xmax>116</xmax>
+			<ymax>366</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -29,10 +29,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>122</xmin>
-			<ymin>151</ymin>
-			<xmax>270</xmax>
-			<ymax>361</ymax>
+			<xmin>126</xmin>
+			<ymin>164</ymin>
+			<xmax>267</xmax>
+			<ymax>364</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -41,10 +41,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>271</xmin>
-			<ymin>76</ymin>
-			<xmax>394</xmax>
-			<ymax>355</ymax>
+			<xmin>268</xmin>
+			<ymin>81</ymin>
+			<xmax>398</xmax>
+			<ymax>360</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -53,10 +53,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>394</xmin>
-			<ymin>25</ymin>
-			<xmax>544</xmax>
-			<ymax>348</ymax>
+			<xmin>398</xmin>
+			<ymin>19</ymin>
+			<xmax>545</xmax>
+			<ymax>347</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -65,10 +65,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>545</xmin>
-			<ymin>44</ymin>
-			<xmax>710</xmax>
-			<ymax>337</ymax>
+			<xmin>550</xmin>
+			<ymin>40</ymin>
+			<xmax>716</xmax>
+			<ymax>334</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -77,10 +77,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>716</xmin>
-			<ymin>33</ymin>
-			<xmax>893</xmax>
-			<ymax>337</ymax>
+			<xmin>715</xmin>
+			<ymin>28</ymin>
+			<xmax>895</xmax>
+			<ymax>336</ymax>
 		</bndbox>
 	</object>
 </annotation>

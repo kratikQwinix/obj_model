@@ -1,7 +1,7 @@
 <annotation>
-	<folder>1</folder>
+	<folder>wba-15196-000-c025</folder>
 	<filename>3062-wba-15196-000-c025-1573547360-shelf1.jpg</filename>
-	<path>/home/qwinix/Documents/Resized-15196-25-26-27/Resized-25/1/3062-wba-15196-000-c025-1573547360-shelf1.jpg</path>
+	<path>/home/qwinix/Documents/15196/wba-15196-000-c025/3062-wba-15196-000-c025-1573547360-shelf1.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>157</xmin>
-			<ymin>124</ymin>
-			<xmax>314</xmax>
-			<ymax>348</ymax>
+			<xmin>314</xmin>
+			<ymin>155</ymin>
+			<xmax>410</xmax>
+			<ymax>347</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -29,10 +29,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>317</xmin>
-			<ymin>159</ymin>
-			<xmax>412</xmax>
-			<ymax>345</ymax>
+			<xmin>159</xmin>
+			<ymin>120</ymin>
+			<xmax>310</xmax>
+			<ymax>341</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -41,10 +41,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>411</xmin>
-			<ymin>226</ymin>
-			<xmax>455</xmax>
-			<ymax>348</ymax>
+			<xmin>11</xmin>
+			<ymin>99</ymin>
+			<xmax>154</xmax>
+			<ymax>341</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -54,9 +54,9 @@
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>456</xmin>
-			<ymin>138</ymin>
-			<xmax>667</xmax>
-			<ymax>345</ymax>
+			<ymin>140</ymin>
+			<xmax>661</xmax>
+			<ymax>351</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -65,10 +65,22 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>667</xmin>
-			<ymin>223</ymin>
-			<xmax>784</xmax>
-			<ymax>343</ymax>
+			<xmin>407</xmin>
+			<ymin>229</ymin>
+			<xmax>453</xmax>
+			<ymax>351</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>bottle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>663</xmin>
+			<ymin>215</ymin>
+			<xmax>788</xmax>
+			<ymax>346</ymax>
 		</bndbox>
 	</object>
 </annotation>

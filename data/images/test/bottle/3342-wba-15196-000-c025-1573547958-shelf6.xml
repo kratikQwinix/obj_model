@@ -1,7 +1,7 @@
 <annotation>
-	<folder>test</folder>
+	<folder>wba-15196-000-c025</folder>
 	<filename>3342-wba-15196-000-c025-1573547958-shelf6.jpg</filename>
-	<path>/Users/kratik/Pictures/OBJECT/HAWK/TAGGED/sowmya/test/3342-wba-15196-000-c025-1573547958-shelf6.jpg</path>
+	<path>/home/qwinix/Documents/15196/wba-15196-000-c025/3342-wba-15196-000-c025-1573547958-shelf6.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>13</xmin>
-			<ymin>17</ymin>
-			<xmax>353</xmax>
-			<ymax>335</ymax>
+			<xmin>4</xmin>
+			<ymin>19</ymin>
+			<xmax>355</xmax>
+			<ymax>310</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -30,21 +30,9 @@
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>353</xmin>
-			<ymin>27</ymin>
-			<xmax>509</xmax>
-			<ymax>299</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>bottle</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>493</xmin>
-			<ymin>2</ymin>
-			<xmax>712</xmax>
-			<ymax>289</ymax>
+			<ymin>31</ymin>
+			<xmax>498</xmax>
+			<ymax>288</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -53,10 +41,22 @@
 		<truncated>1</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>708</xmin>
+			<xmin>500</xmin>
 			<ymin>1</ymin>
-			<xmax>888</xmax>
-			<ymax>283</ymax>
+			<xmax>704</xmax>
+			<ymax>279</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>bottle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>705</xmin>
+			<ymin>5</ymin>
+			<xmax>884</xmax>
+			<ymax>263</ymax>
 		</bndbox>
 	</object>
 </annotation>
